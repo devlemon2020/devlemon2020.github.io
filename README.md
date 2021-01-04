@@ -1,1 +1,6 @@
-# devlemon2020.github.io
+# DISCORD BOT
+
+Bot personalizado para server de discord. Host en Heroku.
+
+
+
